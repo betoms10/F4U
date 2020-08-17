@@ -9,10 +9,10 @@ Plataforma de gamificação para os mais apaixonados torcedores de Futebol. Dese
   - PHP 7
   - JS
   - Jquery
-  - Anime.js
+  - Anime.JS
   - Wow.JS
-  - Mysql
-  - Soap
+  - MySql
+  - Soap APIs
   - Bootstrap
 
 
