@@ -29,7 +29,7 @@ Visite: https://www.f4u.com.br
 
 ### TODOS
 
- - Chat entre os particiapantes
+ - Chat entre os participantes
  - Rankings de pontos e nível de torcedor
 
 License
