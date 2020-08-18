@@ -25,8 +25,6 @@ Plataforma de gamificação para os mais apaixonados torcedores de Futebol. Dese
 > e diversão.
 
 
-Sinta-se livre para clonar o repositório e enviar suas features, crie novas branchs para isso.
-
 Visite: https://www.f4u.com.br
 
 ### TODOS
